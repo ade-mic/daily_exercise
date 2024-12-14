@@ -20,9 +20,10 @@ A **Secure Password Manager** designed to safely store and retrieve user credent
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-manager.git
-   cd password-manager
+   git clone https://github.com/ade-mic/daily_exercise.git
+   cd daily_exercise/password-manager
    ```
+   *only backend is functional at the moment and still work in progress*
 
 2. Install dependencies:
    ```bash
